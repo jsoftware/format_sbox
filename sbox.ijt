@@ -1,4 +1,5 @@
 LABTITLE=: 'Displaying boxed nouns containing Unicode glyphs'
+LABDEPENDS=: 'format/sbox'
 
 NB. =========================================================
 Lab Section U-NOUNS
@@ -35,7 +36,6 @@ Define a verb with (dom) in it.
  Commence with the standard library verb: dlb
  (Delete Leading Blanks)
 )
-require 'strings'
 5!:6 <'dlb'	NB. Parenthesized Representation
 5!:1 <'dlb'	NB. Atomic Representation
 
