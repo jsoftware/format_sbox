@@ -2,7 +2,7 @@ NB. sbox manifest
 
 CAPTION=: 'Displaying boxed nouns containing Unicode glyphs'
 
-VERSION=: '0.0.2'
+VERSION=: '0.0.3'
 
 FILES=: 0 : 0
 manifest.ijs
@@ -21,7 +21,7 @@ DEPENDS=: 0 : 0
 format/zulu/lite
 )
 
-RELEASE=: 'j602 j701 j801'
+RELEASE=: 'j602 j701 j801 j802'
 
 LABCATEGORY=: 'Format'
 
